@@ -24,5 +24,5 @@ Once you connected to devcontainer, you can observe "container runnning" by dock
 You will be required to setup git config inside container.
 Please execute following commands.
 
-  `git config --global user.email "you@example.com"`
-  `git config --global user.name "Your Name"`
+  1. `git config --global user.email "you@example.com"`
+  2. `git config --global user.name "Your Name"`
