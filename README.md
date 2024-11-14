@@ -19,3 +19,10 @@ Please follow instructions below to configure.
         2. choose the option "Reopen container"
 
 Once you connected to devcontainer, you can observe "container runnning" by docker desktop or `docker ps` command.
+
+## git CLI inside devcontainer
+You will be required to setup git config inside container.
+Please execute following commands.
+
+  `git config --global user.email "you@example.com"`
+  `git config --global user.name "Your Name"`
